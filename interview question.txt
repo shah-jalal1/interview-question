@@ -1,0 +1,28 @@
+semantic tag (6-10):
+article , section, aside, address, header, footer, audio, video etc
+
+html vs html5(6-2)
+
+what is CSS3 important(7-1 )
+round, animation, responsive
+
+media queary
+
+position(8-1)
+
+horizotalm and verticaly center (9-8 (11.16min))
+
+what is javascript? (13_5-1)(7.40min)(17-4)
+
+factorial and factorial recursive by java
+
+fibonacci and fibonacci recursive(14-8)
+
+DOM (17-5)
+
+stop buble(18-11)
+
+arguments (21_5-2)(10.05)- Arguments is a array like object
+
+OOP piller? (22_8)(5.40min)
+
