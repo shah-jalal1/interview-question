@@ -26,3 +26,15 @@ arguments (21_5-2)(10.05)- Arguments is a array like object
 
 OOP piller? (22_8)(5.40min)
 
+destructure (22_9) (14.25min)
+
+Null vs Undefined(23_3)(common interview question)
+
+double vs triple(populer interview question)(23_4)(6.4min)
+
+whesting, (common question)(23_7)(8.54min), block scope, global scope(11.50)
+
+closure(23_8)(6.28min)
+
+http request ki ki ache (24_7)(1.25min)
+
