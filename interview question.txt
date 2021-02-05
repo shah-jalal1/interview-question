@@ -38,3 +38,7 @@ closure(23_8)(6.28min)
 
 http request ki ki ache (24_7)(1.25min)
 
+git vs post (important) (24_7)(3.50min)
+
+promise (24_9) (2.15min)
+
